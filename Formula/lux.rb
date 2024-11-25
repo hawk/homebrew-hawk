@@ -1,8 +1,8 @@
 class Lux < Formula
   desc "Test automation framework with Expect style execution of commands"
   homepage "https://github.com/hawk/lux"
-  url "https://github.com/hawk/lux/archive/lux-2.1.tar.gz"
-  sha256 "ba7282217f9a88a59a27656e78ac6c52909b4e73bc2d31fd7f62543f71993a26"
+  url "https://github.com/hawk/lux/archive/refs/tags/lux-3.0.tar.gz"
+  sha256 "56f217c0988b81511057d9125e60963f6bb2cca883b63522dea580f666ec8acf"
 
   head "https://github.com/hawk/lux.git", :branch => "develop"
 
